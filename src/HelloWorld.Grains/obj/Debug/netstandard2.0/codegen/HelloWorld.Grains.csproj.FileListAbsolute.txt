@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Grains\bin\Debug\netstandard2.0\HelloWorld.Grains.deps.json
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Grains\bin\Debug\netstandard2.0\HelloWorld.Grains.dll
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Grains\bin\Debug\netstandard2.0\HelloWorld.Grains.pdb
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Grains\bin\Debug\netstandard2.0\HelloWorld.Interfaces.dll
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Grains\bin\Debug\netstandard2.0\HelloWorld.Interfaces.pdb
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Grains\obj\Debug\netstandard2.0\codegen\HelloWorld.Grains.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Grains\obj\Debug\netstandard2.0\codegen\HelloWorld.Grains.AssemblyInfoInputs.cache

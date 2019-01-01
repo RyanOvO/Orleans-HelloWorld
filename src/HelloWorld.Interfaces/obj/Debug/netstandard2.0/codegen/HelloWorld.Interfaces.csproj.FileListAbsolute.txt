@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Interfaces\bin\Debug\netstandard2.0\HelloWorld.Interfaces.deps.json
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Interfaces\bin\Debug\netstandard2.0\HelloWorld.Interfaces.dll
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Interfaces\bin\Debug\netstandard2.0\HelloWorld.Interfaces.pdb
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Interfaces\obj\Debug\netstandard2.0\codegen\HelloWorld.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\HelloWorld.Interfaces\obj\Debug\netstandard2.0\codegen\HelloWorld.Interfaces.AssemblyInfoInputs.cache

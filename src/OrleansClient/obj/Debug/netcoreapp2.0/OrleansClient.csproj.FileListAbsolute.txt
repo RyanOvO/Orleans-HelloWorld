@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.0\OrleansClient.dll.config
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.0\OrleansClient.deps.json
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.0\OrleansClient.runtimeconfig.json
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.0\OrleansClient.runtimeconfig.dev.json
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.0\OrleansClient.dll
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.0\OrleansClient.pdb
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.0\HelloWorld.Interfaces.dll
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\bin\Debug\netcoreapp2.0\HelloWorld.Interfaces.pdb
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.0\OrleansClient.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.0\OrleansClient.dll.config
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.0\OrleansClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.0\OrleansClient.csproj.CopyComplete
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.0\OrleansClient.dll
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\OrleansClient\obj\Debug\netcoreapp2.0\OrleansClient.pdb

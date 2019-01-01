@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\bin\Debug\netcoreapp2.0\SiloHost.dll.config
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\bin\Debug\netcoreapp2.0\SiloHost.deps.json
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\bin\Debug\netcoreapp2.0\SiloHost.runtimeconfig.json
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\bin\Debug\netcoreapp2.0\SiloHost.runtimeconfig.dev.json
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\bin\Debug\netcoreapp2.0\SiloHost.dll
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\bin\Debug\netcoreapp2.0\SiloHost.pdb
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\bin\Debug\netcoreapp2.0\HelloWorld.Grains.dll
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\bin\Debug\netcoreapp2.0\HelloWorld.Interfaces.dll
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\bin\Debug\netcoreapp2.0\HelloWorld.Grains.pdb
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\bin\Debug\netcoreapp2.0\HelloWorld.Interfaces.pdb
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\obj\Debug\netcoreapp2.0\SiloHost.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\obj\Debug\netcoreapp2.0\SiloHost.dll.config
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\obj\Debug\netcoreapp2.0\SiloHost.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\obj\Debug\netcoreapp2.0\SiloHost.csproj.CopyComplete
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\obj\Debug\netcoreapp2.0\SiloHost.dll
+C:\Users\admin\Desktop\orleans-master\orleans-master\Samples\2.0\HelloWorld\src\SiloHost\obj\Debug\netcoreapp2.0\SiloHost.pdb
